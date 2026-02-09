@@ -30,6 +30,4 @@
     💼 <strong>Intern</strong> @ ByteDance & OpenBMB
   </p>
 
-  <!-- 5. 访客统计 -->
-  <img src="https://komarev.com/ghpvc/?username=x66ccff&style=flat-square&color=blue" alt="Visitor Count" />
 </div>
