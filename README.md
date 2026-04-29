@@ -35,22 +35,11 @@
   <!-- 5. 📌 动态 Pin 专区 (色彩呼应上方主题色) -->
   <h3 align="center"></h3>
   
-  <p align="center">
-    <!-- 第 1 行卡片 -->
-    <a href="https://github.com/x66ccff/x66ccff.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=x66ccff&repo=x66ccff.github.io&theme=transparent&border_color=66ccff&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="Readme Card" />
-    </a>
-    <a href="https://github.com/x66ccff/x66ccff">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=x66ccff&repo=x66ccff&theme=transparent&border_color=66ccff&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="Readme Card" />
-    </a>
-    <br>
-    <!-- 第 2 行卡片 (可无限往下加) -->
-    <a href="https://github.com/x66ccff/claude-code">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=x66ccff&repo=claude-code&theme=transparent&border_color=66ccff&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="Readme Card" />
-    </a>
-    <a href="https://github.com/x66ccff/PromptRose">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=x66ccff&repo=PromptRose&theme=transparent&border_color=66ccff&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="Readme Card" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://github.com/x66ccff/x66ccff.github.io" title="x66ccff.github.io">🌐</a>&nbsp;&nbsp;
+  <a href="https://github.com/x66ccff/x66ccff" title="x66ccff">👋</a>&nbsp;&nbsp;
+  <a href="https://github.com/x66ccff/claude-code" title="claude-code">🤖</a>&nbsp;&nbsp;
+  <a href="https://github.com/x66ccff/PromptRose" title="PromptRose">🌹</a>
+</p>
 
 </div>
