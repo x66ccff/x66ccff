@@ -39,6 +39,8 @@
   <a href="https://github.com/x66ccff/x66ccff.github.io" title="x66ccff.github.io">🌐</a>&nbsp;&nbsp;
   <a href="https://github.com/x66ccff/x66ccff" title="x66ccff">👋</a>&nbsp;&nbsp;
   <a href="https://github.com/x66ccff/claude-code" title="claude-code">🤖</a>&nbsp;&nbsp;
+  <a href="https://github.com/x66ccff/Auto-claude-code-research-in-sleep" title="Auto-claude-code-research-in-sleep">🌗</a>&nbsp;&nbsp;
+  
   <a href="https://github.com/x66ccff/PromptRose" title="PromptRose">🌹</a>
 </p>
 
