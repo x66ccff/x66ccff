@@ -24,7 +24,9 @@
     </a>
   </p>
 
-  
+<p>
+  I'm always open to research collaborations—if you're interested in working together, feel free to reach out!
+</p>
   <br>
 
   <!-- 5. 📌 动态 Pin 专区 (色彩呼应上方主题色) -->
