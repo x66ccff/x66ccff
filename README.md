@@ -24,11 +24,6 @@
     </a>
   </p>
 
-  <!-- 4. 简短履历 -->
-  <p style="font-family: monospace; font-size: 14px;">
-    🎓 <strong>Ph.D.</strong> @ RUC (2023-Present) &nbsp;|&nbsp; 
-    💼 <strong>Intern</strong> @ ByteDance & OpenBMB
-  </p>
   
   <br>
 
