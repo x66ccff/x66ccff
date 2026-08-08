@@ -10,9 +10,9 @@
 
   <!-- 3. 所有徽章排成一排 -->
   <p>
-    <a href="https://66ccff.blue/">
-      <img src="https://img.shields.io/badge/66ccff.blue-66ccff?style=flat-square" alt="Homepage">
-    </a>
+<a href="https://66ccff.blue/">
+  <img src="https://img.shields.io/badge/∞-66ccff.blue-66ccff?style=flat-square&labelColor=66CCFF" alt="Homepage">
+</a>
     <a href="https://scholar.google.com/citations?user=tokSmGMAAAAJ">
       <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
     </a>
